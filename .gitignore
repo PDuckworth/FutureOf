@@ -2,6 +2,10 @@
 .idea/
 .ipynb_checkpoints*
 
+# in other git places - bitbucket
+future_of_employment_uk
+nri_japan_future_of_employment
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
